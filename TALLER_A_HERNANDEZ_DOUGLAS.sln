@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V1_App", "V1_App\V1_App.csproj", "{27C28539-9EEB-4F08-89C1-5BAEFA11B055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V1_Library", "V1_Library\V1_Library.csproj", "{3E18E1F3-8591-406D-A07D-EA9F8C84A893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V1_Tests", "V1_Tests\V1_Tests.csproj", "{94AF2B7D-B9A1-41CA-B24A-B7E4A8FD01A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C28539-9EEB-4F08-89C1-5BAEFA11B055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C28539-9EEB-4F08-89C1-5BAEFA11B055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C28539-9EEB-4F08-89C1-5BAEFA11B055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C28539-9EEB-4F08-89C1-5BAEFA11B055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E18E1F3-8591-406D-A07D-EA9F8C84A893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E18E1F3-8591-406D-A07D-EA9F8C84A893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E18E1F3-8591-406D-A07D-EA9F8C84A893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E18E1F3-8591-406D-A07D-EA9F8C84A893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AF2B7D-B9A1-41CA-B24A-B7E4A8FD01A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AF2B7D-B9A1-41CA-B24A-B7E4A8FD01A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AF2B7D-B9A1-41CA-B24A-B7E4A8FD01A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AF2B7D-B9A1-41CA-B24A-B7E4A8FD01A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9CCD7EB-2E6B-483F-B626-54898B476F45}
+	EndGlobalSection
+EndGlobal
