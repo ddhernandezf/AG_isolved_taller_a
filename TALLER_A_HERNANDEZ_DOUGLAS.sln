@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "V1_Library", "V1_Library\V1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "V1_Tests", "V1_Tests\V1_Tests.csproj", "{94AF2B7D-B9A1-41CA-B24A-B7E4A8FD01A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V2_App", "V2_App\V2_App.csproj", "{47468085-1248-49E0-B45F-09D5F3CE486E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "V2_App", "V2_App\V2_App.csproj", "{47468085-1248-49E0-B45F-09D5F3CE486E}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "V1_Database", "V1_Database\V1_Database.sqlproj", "{F85FE346-E71D-4E79-B221-7CB6B9736F66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,12 @@ Global
 		{47468085-1248-49E0-B45F-09D5F3CE486E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47468085-1248-49E0-B45F-09D5F3CE486E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47468085-1248-49E0-B45F-09D5F3CE486E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85FE346-E71D-4E79-B221-7CB6B9736F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85FE346-E71D-4E79-B221-7CB6B9736F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85FE346-E71D-4E79-B221-7CB6B9736F66}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F85FE346-E71D-4E79-B221-7CB6B9736F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85FE346-E71D-4E79-B221-7CB6B9736F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85FE346-E71D-4E79-B221-7CB6B9736F66}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

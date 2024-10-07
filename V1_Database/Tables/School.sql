@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[School]
+(
+	[SchoolID] INT NOT NULL IDENTITY(1,1),
+	[SchoolName] VARCHAR(200) NOT NULL,
+	[FoundedON] DATETIME NOT NULL,
+	[Country] VARCHAR(120) NOT NULL,
+	CONSTRAINT [PK_School] PRIMARY KEY CLUSTERED([SchoolID]),
+	CONSTRAINT [UQ_School] UNIQUE([SchoolName], [Country])
+)

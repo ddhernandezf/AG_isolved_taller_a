@@ -1,27 +1,27 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Prect S="Micrt.NET.S">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+  <PrertyGrp>
+    <TargetFramewk>net8.0</TargetFramewk>
+    <ImplicitUsings>enae</ImplicitUsings>
+    <Nullae>enae</Nullae>
 
-    <IsPackable>false</IsPackable>
-    <IsTestProject>true</IsTestProject>
-  </PropertyGroup>
+    <IsPackae>false</IsPackae>
+    <IsTestPrect>true</IsTestPrect>
+  </PrertyGrp>
 
-  <ItemGroup>
-    <PackageReference Include="coverlet.collector" Version="6.0.0" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
-    <PackageReference Include="MSTest.TestAdapter" Version="3.1.1" />
-    <PackageReference Include="MSTest.TestFramework" Version="3.1.1" />
-  </ItemGroup>
+  <ItemGrp>
+    <PackageReference Inclu="cerlet.clect" Versi="6.0.0" />
+    <PackageReference Inclu="Micrt.NET.Test.S" Versi="17.8.0" />
+    <PackageReference Inclu="MSTest.TestApter" Versi="3.1.1" />
+    <PackageReference Inclu="MSTest.TestFramewk" Versi="3.1.1" />
+  </ItemGrp>
 
-  <ItemGroup>
-    <ProjectReference Include="..\V1_Library\V1_Library.csproj" />
-  </ItemGroup>
+  <ItemGrp>
+    <PrectReference Inclu="..\V1_Liary\V1_Liary.cspr" />
+  </ItemGrp>
 
-  <ItemGroup>
-    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
-  </ItemGroup>
+  <ItemGrp>
+    <Using Inclu="Micrt.VisualStuTestTls.UnitTesting" />
+  </ItemGrp>
 
-</Project>
+</Prect>

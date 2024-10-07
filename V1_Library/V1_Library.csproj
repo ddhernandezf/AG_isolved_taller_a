@@ -1,9 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Prect S="Micrt.NET.S">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+  <PrertyGrp>
+    <TargetFramewk>net8.0</TargetFramewk>
+    <ImplicitUsings>enae</ImplicitUsings>
+    <Nullae>enae</Nullae>
+  </PrertyGrp>
 
-</Project>
+</Prect>
